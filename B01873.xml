@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Bushel's mineral overtures</title>
+            <author>Bushell, Thomas, 1594-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01873</idno>
+            <idno type="STC">Wing B6247B</idno>
+            <idno type="STC">ESTC R9055</idno>
+            <idno type="EEBO-CITATION">51617896</idno>
+            <idno type="OCLC">ocm 51617896</idno>
+            <idno type="VID">175161</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175161)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2718:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Bushel's mineral overtures</title>
+                  <author>Bushell, Thomas, 1594-1674.</author>
+                  <author>Bacon, Francis, 1561-1626.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>ca. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Thomas Bushell.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Apparently issued as part of an unidentified larger work.  "Mr. Bushel's mineral overtures" was issued in different settings as part of "Mr. Bushell's abridgment of the Lord Chancellor Bacon's philosophical theory in mineral prosecutions", 1659 and "An extract by Mr. Bushell of his late abridgement of the Lord Chancellor Bacon's philosophical theory in mineral prosecutions", 1660.</note>
+                  <note>Reproduction of the original in the California State Library, Sutro Branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bacon, Francis, 1561-1626 --  Early works to 1800.</term>
+               <term>Mines and mineral resources --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175161:1" rendition="simple:additions"/>
+            <head>
+               <hi>M<hi rend="sup">r.</hi>
+               </hi> B<g ref="char:V">Ʋ</g>SHEL'S Minerall Overtures.</head>
+            <opener>
+               <salute>Right Honourable:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to your commands, I do here preſent your Lordſhips with a briefe Narrative of the Lord Chancellor BACONS directions to my ſelfe, for the management of his Minerall expe<g ref="char:EOLhyphen"/>riments, in caſe his own death ſhould ſtop his intended progreſſe therin, before he could practi<g ref="char:EOLhyphen"/>cally diſcover the true generation, and ſpreading qualities of Mines Royall, I being then his Meniall Servant.</p>
+            <p>King JAMES having already promiſed to grant his Lordſhip all his own diſcoveries of Mines Royall, and alſo of any drowned Lands, or deſerted Works by him to be recovered within the ſpace of 40. yeers, paying him the fifth according to the uſuall cuſtome of the King of Spain, in his Mines of the Weſt Indies, and of other Prin<g ref="char:EOLhyphen"/>ces, after the expiration of 14. yeers firſt granted gratis towards the great charge of his new invention, to facilitate the obtaining the Minerall riches of this Land, occaſioned by a learned Speech his Lordſhip had lately made to his Majeſty: Count GUNDAMORE, and divers of the Nobility being preſent, concerning the riſe, and magnificent growth of the China Trade, wherein by a perfect de<g ref="char:EOLhyphen"/>monſtration, he made it appear, that the invention of one man (by his helping the defects of nature, with the materials of Art, and the patience of three ages induſtry to bring its concoction to perfecti<g ref="char:EOLhyphen"/>on) became the great Revenue of that Empire, and hath been for this thouſand years the only honour of that people, aſwell as the livelihood of their patrimony; in which he ſeriouſly proteſted, that his utmoſt ambition in the affairs of this world affected no grea<g ref="char:EOLhyphen"/>ter
+<pb n="2" facs="tcp:175161:2"/> glory, then to leave the reall fruits of his beſt ſervice to his Sove<g ref="char:EOLhyphen"/>raign, honour to his name, his written works to poſterity, and by ſuch treaſures as his own induſtry ſhould raiſe out of his Minerall experimen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to accompliſh the noble deſign and fabrick of his Solo<g ref="char:EOLhyphen"/>mons houſe, deſcribed in his Naturall Hiſtory, ſince the corporation of the Mines Royall, inſtituted by his Majeſty, conſiſting of Lords and Gentlemen of quality, produced but weake, or very ſmall ad<g ref="char:EOLhyphen"/>vantages to his Majeſties Revenue, or the publick good, although his Lordſhip did then really believe it very poſſible for himſelfe (if qualified thereto by his Majeſties power) to bring it ſo to paſſe in one age, that the barreneſt mountains in this nation ſhould produce ſuch ſtore of treaſure by their beds of mettle that this State ſhould not need to envy the King of Spains felicity in his POTOSEE, or any other his ſilver Mines in America; and thereupon by way of ſi<g ref="char:EOLhyphen"/>militude added this, that as a State, whoſe preſent dimentions were but ſmall, might happily ſerve as a foundation for an ample Monar<g ref="char:EOLhyphen"/>chy, if all regard of private propriety were laid aſide, and every member thereof would diligently devote his particular care to the publick benefit: even ſo it might happen in the advancement of the diſcoveries of thoſe Minerall riches ſuppoſed to lie hid in the boſoms of the moſt barren Mountains, when the whole induſtry of the ma<g ref="char:EOLhyphen"/>ny ſeverall perſons imployed in that work ſhould be concentrick in that ſervice, and act as the united faculties of one man, their hearts being free from all ends and ambitious thoughts, ſave ſuch as condu<g ref="char:EOLhyphen"/>ced to Gods glory and the common good. But ſo ſoon as his Lord<g ref="char:EOLhyphen"/>ſhip had vouchſafed to acquaint me concerning his proceedings with his Majeſty in this affaire, he bad me call to mind the many fatherly favours, which he had conferred upon me as pious motives to retard my unripe years from hazardous travels in forraign parts; I having profeſſed to his Lordſhip, that I could not with any con<g ref="char:EOLhyphen"/>tent reſolve to live in my native Countrey, ſince I firſt underſtood that yonger Brothers by the Law of the Land, were but to have little ſhare in their fathers inheritance, but that they were by the wayes of vertue and induſtry, by the aſſiſtance of the Almighties bounty, to acquire ſuch fortunes as primogeniture had conferred upon their elder brothers, or otherwiſe to live in an inferiour or ſervile condition, and then inſtanced his acceptance of me for his
+<pb n="3" facs="tcp:175161:2"/> ſervant at fifteen years of age upon mine own addreſſe, his clearing all my debts three ſeverall times, with no ſmall ſums, his preferring me in marriage to a rich inheritrix, and thereupon allowing me 400 pounds <hi>per annum</hi> to ballance the conſent of her Father in the match; ſaying, that if thoſe reall expreſſions of his love could but find the due retalliation of my gratitude, he might then aſſure him<g ref="char:EOLhyphen"/>ſelfe of the hoped harveſt of two lives in one; inferring, that al<g ref="char:EOLhyphen"/>though fathers are bound to provide for their children, and worſe then Infidels if they do not, yet there is no ſuch injunction upon Maſters in relation to their ſervants; and therefore where a Maſters pious bounty tranſcends a Fathers naturall love, there that ſo obli<g ref="char:EOLhyphen"/>ged ſervant muſt appear moſt prodigiouſly ingratefull, which ſhall not with much zeale and faithfulneſs diſcharge the duty of a ſurvi<g ref="char:EOLhyphen"/>ving truſt, ſeriouſly adding this: BUSHELL, I muſt now uſe you my intended inſtrument, in the proſecution of my Minerall deſigns, as politick Princes do their neareſt ſervants in their Cabinet Coun<g ref="char:EOLhyphen"/>ſels, who putting their maſters conceptions into act, if they take well with the people, muſt own no more of them then the approba<g ref="char:EOLhyphen"/>tion thereof, and the admiration of their Princes wiſedome therein; but in caſe of miſcarriage, to ſalve their Princes honour, they muſt ſadly acknowledge the matter wholly their own, an Errour in their Counſels, and a Crime in themſelves; ſo you if by my Theory you proſper in your practick, muſt attribute all the honour of the whole worke to me; if otherwiſe, you muſt gratefully preſerve my repu<g ref="char:EOLhyphen"/>tation, by acknowledging your own misfortune in miſtaking and miſacting my directions, and ſo you ſhall be ſure to gain the Title and Character of a gratefull ſervant in either event. And upon my ſerious proteſtation, that I would faithfully and curiouſly obey all his Commands concerning his Mynerall directions and deſigns, his Lordſhip firſt adviſed me, not to follow the practice of our Prede<g ref="char:EOLhyphen"/>ceſſors in their tedious and expenſive wayes of ſinking Ayreſhaffes at every forty Fathomes in ſearch of the uncertain Veyns, nor to im<g ref="char:EOLhyphen"/>mitate the Ancient Romanes byd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gging Mynes through deepe and open Trenches; but to obſerve his directions by cutting my Addits into the Mountains at the loweſt Levell of all drowned and deſerted works, and by ſupplying the defect of the Ayre in my far led Addits by Pipe and Bellowes, being an Invention utterly unknown to for<g ref="char:EOLhyphen"/>mer
+<pb n="4" facs="tcp:175161:3"/> Ages. And for my firſt experience, to begin with thoſe five Mountains in Cardiganſhire, upon a view thereof by Sir FRANCIS GODOLPHIN, and a Portugues (men of great experience in Mynes) reported by them to be rich in Silver and Lead. But if I ſhould by my practick part faile in my deeper ſearch either for want of convenient Ayre, or a ſufficient Veyn of Ore, his Lordſhip com<g ref="char:EOLhyphen"/>manded me to purſue his directions in that particular no further; yet if my happy ſucceſſe ſhould prove his Theory true in this, as al<g ref="char:EOLhyphen"/>ſo in the ſeverall wayes of ſeperating the Mettle from the Droſſe, and the Silver from the Lead, that then I ſhould not faile to illuſtrate the innocent Trade of the poor Mynes, by making his Lordſhip the Patron of their profeſſion, and my ſelf one of their ſociety, according to the many obligations of his Lordſhips forementioned favours, hereby performing the duty of a faithfull ſervant therein: And for my further diſcoveries of the Treaſures of other Mountains, which have the ſame Symptoms of Rakes, Veyns, and Sparres, his Lordſhip conceived it moſt neceſſary for me, to dedicate the whole profit, which Gods providence ſhould reveale in the one to the finding out of the Riches of the other; and as a firſt help in this work he coun<g ref="char:EOLhyphen"/>ſels me to petition my Soveraign: That for the agrandizing his Royal Clemency and Magnificence, he would gratiouſly grant life to ſuch as had offended in petty Felonies, and were willing to expi<g ref="char:EOLhyphen"/>ate their crimes by their diligent and dayly labours in his Majeſties Mynes, and if poſſible to obtain a Branch of his Majeſties Mint to encourage all Forrain &amp; Native Miners, with due &amp; certain payme<g ref="char:cmbAbbrStroke">̄</g>t, according to the preſident of other Princes, and not force them to take baſe Commodities at high rates for their painfull ſervice, as hath been inforced by ſome former undertakers, which I feare hath entayled a Curſe upon their fraudulent policies. But above all, that I ſhould take a ſpeciall care conſcienciouſly to elect ſuch honeſt Agents for the carrying on this innocently profitable work, whoſe vertuous ambitions ſhould aime at nothing beyond the publike good of their Countrey, and a competent ſallary for their modeſt maintenance: But theſe Embrions proving abortive by the ſudden fall and death of that Lord in the Raign of King James, were the ſad motives which perſwaded my penſive retireme<g ref="char:cmbAbbrStroke">̄</g>ts to my three years unſociable ſolitude in the deſolate Iſle called the Calfe of Man, where
+<pb n="5" facs="tcp:175161:3"/> (abhorring the memory of my deſol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te exorbitances) in obedience to my dead Lords Philoſophicall advice: I reſolved to make a per<g ref="char:EOLhyphen"/>fect exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riment upon my ſelfe for the obtaining a long and healthy life, m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt neceſſary for ſuch a repentance, as my former debauched<g ref="char:EOLhyphen"/>neſs required by a parcimonious diet of Hearbs, Oyle, Muſtard, and Honey, with water ſufficient, moſt like to that of our long-liv'd Fathers before the floud (as was conceived by that Lord) which I moſt ſtrictly obſerved, as if obliged by a religious vow, till divine providence calling me to a more active life. I diſcovered and perfe<g ref="char:EOLhyphen"/>cted natures ingenious deſignes upon my rock at Enſton in Oxford<g ref="char:EOLhyphen"/>ſhire, by making it ſuch an artificiall delightfull Grotto, that the fame of it invited the late K. <hi>Charls</hi> to a voluntary viſit. By which opportunity I not only became known to his Majeſty, but alſo found an apt occaſion to diſcourſe the above mentioned Propoſals of the Lord BACON to his owne attentive eare, who ſo well approved of my Engine upon that place, and his Lordſhips Minerall modell, that hee preſently promiſed mee the aſſiſtance of his Mint when I ſhould in thoſe mountains of Cardigan, find ſilver worth the Coyning; and likewiſe the accommodation of my own Lead ſo diſcovered, Cuſtome free for 21. yeers, as alſo my choiſe of renting the whole Cuſtome of that Commodity at the rate of the Farmers Books, calculated by the Account of 7. yeers Audit, whenſoever I ſhould procure to my ſelf the Aſſignment of Sir HUGH MIDDLE<g ref="char:EOLhyphen"/>TONS Leaſe of the Mines Royall in the County of Cardigan, to put the ſpeculations of my deare deceaſed Maſter into practice. Theſe high favours of the late King conferred on my ſelfe, in memory of that Lords eminent abilities, and this his admonition (before the Earle of Dorſet) to me at York. That (if in the war then like to en<g ref="char:EOLhyphen"/>ſue) I ſhould not prove reall, and active in his ſervice, and cordiall in the truſt repoſed in me by my <hi>quondam</hi> Lord, I ſhould juſtly merit the title and reputation of a Knave; which did then provoke mee forwards in my undertakings, with a moſt zealous obſervation of my obliged fidelity to both, till his Majeſty (at CAUSAM) diſinga<g ref="char:EOLhyphen"/>ged me in the firſt, that he might enable me, as much as in him lay, to perform the latter, by his gratious Letter of per<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der Lundy, at my own charge fortified and main<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ained, with<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>jury or violence to any, upon ſuch Articles as m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght take o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> de<g ref="char:EOLhyphen"/>linquency,
+<pb n="6" facs="tcp:175161:4"/> and reſtore me to my eſtate, and the Grants of my Mines, Mints, and Cuſtomes, rather then the forementioned deſign ſo well digeſted by my Honourable Lord, for the generall good, ſhould bee made fruſtrate by my incapacity to proſecute it; I being the only man intimately made privy to all thoſe his Minerall ſpeculations, and ſome other of his Philoſophicall Lucubrations, not yet to bee promulged, untill my proficiency and ſucceſſe in the Mines ſhall en<g ref="char:EOLhyphen"/>able me thereunto: which makes mee now become an humble and earneſt Petitioner to this State, for their pious aſſiſtance in this hopefull work, for the good of this Common Wealth, and their own Honours: ſince I have taken the Engagement, and given ſecurity for my future integrity, deſiring no greater riches or honour in this world, then to gratifie the late Civilities of thoſe my friends which gave me credit, and by my utmoſt induſtry to manifeſt the great debt of love and honour I ow to the worthy memory of that unparalleld Lord, by redeeming my ſelfe in the ſervice and opinion of my Country. For I proteſt, as in the preſence of God, that if I could now command as much wealth as ever the Lidian CRESSUS did poſſeſſe, I would gladly adventure it all in perforating the barren Mountains to diſcover the vaſt Treaſures which lie hid in their Rocky entrayles, for the good of this Common Wealth, and to leav to after Ages a Magnificent Monument in pious Memory of my moſt deſerving Maſter, by finiſhing his SALOMONS houſe in all its dimenſions, and with all the accomodations and endowments therof, according to his Lordſhips own Heroick Idea. And to that end I humbly tender theſe my propoſalls. Firſt, to advance the Mi<g ref="char:EOLhyphen"/>nerall Trade of this Common Wealth, to 1000l. per week, if the Parliament ſhall be pleaſed to ratifie to me the ſame Latitude of Po<g ref="char:EOLhyphen"/>wer to effect it, which King JAMES granted to the Lord Chancel<g ref="char:EOLhyphen"/>lor BACON, and was ſince conferred by King CHARLES on my ſelfe, for the encouragement of me and mine aſſiſtants in the work; but if any unſatisfied concerned perſon ſhall object againſt the tedi<g ref="char:EOLhyphen"/>ous Propoſition of a 14. yeers period before my Mountains muſt bring forth this vaſt birth, and then peradventure expect but a ridi<g ref="char:EOLhyphen"/>culous ſilver Mouſe after this Timpany of promiſes. To beget more candor in ſuch, and a better confidence in all, as a hopefull ſymptome of a lively Embrion, promiſing a larger off-ſpring, I ſhall in the in<g ref="char:EOLhyphen"/>terim
+<pb n="7" facs="tcp:175161:4" rendition="simple:additions"/> give Marts to all ſuch reſponſive perſons that ſhall bee diffi<g ref="char:EOLhyphen"/>dent of the ſucceſſe, and alſo duly pay all ſuch Rent as is now recei<g ref="char:EOLhyphen"/>ved by the State f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the Farmers of the Mines and Cuſtomes of Lead; and likewiſe engage my Life and Fortune, that the cleer fifth part ſhall be worth to this State 500l. the week; and in the ſame proceſſe of 14. yeers more, it ſhall be worth 1000l. the week. I having many noble friends that will adventure their money gratis for 14. yeers, to manifeſt their love to their Country; and to ſee the perfection of thoſe Experiments in the L. BACONS Philoſophy, I having already by his direction cut through five of the 28. Moun<g ref="char:EOLhyphen"/>tains at the loweſt Level, which his Lordſhip and Sir FRANCIS GODOLPHIN, did mark out as the moſt pregnant Hills for diſco<g ref="char:EOLhyphen"/>vering the Beds, and ſpreading Branches of this Nations Minerall Treaſure; ſo that no man of known judgement but muſt conclude the reſt to be of the ſame ſpecies, or of richer natures, in their deep<g ref="char:EOLhyphen"/>er ſearch both for quantity and quality.</p>
+            <pb facs="tcp:175161:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
